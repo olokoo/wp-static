@@ -1,0 +1,4 @@
+.login h1 a {background: url("../images/OlokooPressWR.svg") no-repeat top;background-size: 220px auto;width: 326px;height: 100px;text-indent: -9999px;overflow: hidden;padding-bottom: 15px;display: block;}
+.wp-core-ui .button-primary {background: #f44;border: 0;border-radius: 30px;box-shadow: none;color: #fff;text-decoration: none;text-shadow: none;}
+.wp-core-ui .button-group.button-large .button, .wp-core-ui .button.button-large {height: 45px;line-height: 45px;padding: 0 24px;}
+.wp-core-ui .button-primary.focus, .wp-core-ui .button-primary.hover, .wp-core-ui .button-primary:focus, .wp-core-ui .button-primary:hover {background: #be2121;}
